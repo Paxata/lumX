@@ -1,5 +1,9 @@
 # Changelog
 
+## v2:
+*No major changes.*
+
+
 ## v1:
 *No major changes.*
 
